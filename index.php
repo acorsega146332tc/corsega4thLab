@@ -81,8 +81,6 @@ button:hover{
 
 </style>
 
-</head>
-
 <body>
 
 <div class="form-container">
