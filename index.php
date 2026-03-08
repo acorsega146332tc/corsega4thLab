@@ -78,9 +78,10 @@ button:hover{
 .reset-btn:hover{
     background:#c0392b;
 }
-
+    
 </style>
-
+</head>
+    
 <body>
 
 <div class="form-container">
